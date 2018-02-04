@@ -1,6 +1,6 @@
 # Forge API Intro Lab 5 - Forge API Web Intro JS - Properties and Search 
 
-This is an addition to the introductory materials for Forge API that I have wrote earlier.
+This is an addition to the introductory materials for Forge API, Forge API Intro Labs.
 
 This is the fifth project that built on top of Lab 4 and add JavaScript code to interact with Forge viewer embedded in your web page. 
 The sample demonstrates two functionalities:
