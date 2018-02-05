@@ -1,4 +1,4 @@
-# Forge API Intro Lab 5 - Forge API Web Intro JS - Properties and Search 
+# Forge API Intro Lab 5 - Get Properties and Search 
 
 This is an addition to the introductory materials for Forge API, Forge API Intro Labs.
 
